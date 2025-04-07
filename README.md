@@ -6,8 +6,6 @@ A sleek and simple React app to manage and store your favorite code snippets! ðŸ
 
 ## ðŸ“¸ Screenshot
 
-> Add a screenshot named `screenshot.png` in the root or `public/` folder.
-
 ![App Screenshot](./screenshot.png)
 
 ---
